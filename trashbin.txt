@@ -1,0 +1,262 @@
+<!--hgfh---->
+ 
+ <!->
+ 
+cadetblue
+ 
+;:
+ 
+margin
+ 
+padding
+ 
+cadetblue
+ 
+margin
+ 
+margin
+ 
+left
+ 
+margin
+ 
+427
+ 
+left
+ 
+left
+ 
+text-align: ;
+ 
+left
+ 
+left
+ 
+left
+ 
+left
+ 
+left
+ 
+lumn-gap: ;
+ 
+427
+ 
+left
+ 
+top
+ 
+center
+ 
+space-between
+ 
+   <ul>
+                <a href="#"><li>Privacy</li></a>
+                <a href="#"> <li>Termes</li></a>
+                <a href="#"><li>Mobile</li></a>
+                <a href="#"><li>Security</li></a>
+              </ul>
+ 
+<del></del>
+ 
+<!-- /*  */ -->
+ 
+<div class="img-discription">
+            <img src="/images/asset 16.jpeg" alt="" />
+          </div>
+          <div class="first-discription-footer">
+            <i class="fa-regular fa-clock"></i>
+            <p>18 minutes</p>
+          </div>
+          <discription-second-footer
+            ><p>Amul Masti Curd</p></discription-second-footer
+          >
+          <div class="discreption-third-footer">1 ka</div>
+          <div class="discreption-four-footer">
+            <div class="discreption-four-footer-first">₹72</div>
+            <div class="discreption-four-footer-second">
+              <button>ADD</button>
+            </div>
+          </div>
+ 
+<div class="discription-card">
+            <div class="img-discription">
+              <img src="/images/asset 16.jpeg" alt="" />
+            </div>
+            <div class="first-discription-footer">
+              <i class="fa-regular fa-clock"></i>
+              <p>18 minutes</p>
+            </div>
+            <discription-second-footer
+              ><p>Amul Masti Curd</p></discription-second-footer
+            >
+            <div class="discreption-third-footer">1 ka</div>
+            <div class="discreption-four-footer">
+              <div class="discreption-four-footer-first">₹72</div>
+              <div class="discreption-four-footer-second">
+                <button>ADD</button>
+              </div>
+            </div>
+          </div>
+          <div class="discription-card">
+            <div class="img-discription">
+              <img src="/images/asset 16.jpeg" alt="" />
+            </div>
+            <div class="first-discription-footer">
+              <i class="fa-regular fa-clock"></i>
+              <p>18 minutes</p>
+            </div>
+            <discription-second-footer
+              ><p>Amul Masti Curd</p></discription-second-footer
+            >
+            <div class="discreption-third-footer">1 ka</div>
+            <div class="discreption-four-footer">
+              <div class="discreption-four-footer-first">₹72</div>
+              <div class="discreption-four-footer-second">
+                <button>ADD</button>
+              </div>
+            </div>
+          </div>
+          <div class="discription-card">
+            <div class="img-discription">
+              <img src="/images/asset 16.jpeg" alt="" />
+            </div>
+            <div class="first-discription-footer">
+              <i class="fa-regular fa-clock"></i>
+              <p>18 minutes</p>
+            </div>
+            <discription-second-footer
+              ><p>Amul Masti Curd</p></discription-second-footer
+            >
+            <div class="discreption-third-footer">1 ka</div>
+            <div class="discreption-four-footer">
+              <div class="discreption-four-footer-first">₹72</div>
+              <div class="discreption-four-footer-second">
+                <button>ADD</button>
+              </div>
+            </div>
+          </div>
+          <div class="discription-card">
+            <div class="img-discription">
+              <img src="/images/asset 16.jpeg" alt="" />
+            </div>
+            <div class="first-discription-footer">
+              <i class="fa-regular fa-clock"></i>
+              <p>18 minutes</p>
+            </div>
+            <discription-second-footer
+              ><p>Amul Masti Curd</p></discription-second-footer
+            >
+            <div class="discreption-third-footer">1 ka</div>
+            <div class="discreption-four-footer">
+              <div class="discreption-four-footer-first">₹72</div>
+              <div class="discreption-four-footer-second">
+                <button>ADD</button>
+              </div>
+            </div>
+          </div>
+          <div class="discription-card">
+ 
+padding
+ 
+150px
+ 
+150px
+ 
+first
+ 
+discription-card
+ 
+around
+ 
+ <div class="small-box">
+        <img src="/images/ezgif.com-gif-maker (1).jpg" alt="" />
+        <img src="/images/ezgif.com-gif-maker (2).jpg" alt="" />
+        <img src="/images/ezgif.com-gif-maker (3).jpg" alt="" />
+        <img src="/images/ezgif.com-gif-maker (4).jpg" alt="" />
+        <img src="/images/ezgif.com-gif-maker (5).jpg" alt="" />
+        <img src="/images/ezgif.com-gif-maker (6).jpg" alt="" />
+        <img src="/images/ezgif.com-gif-maker (7).jpg" alt="" />
+        <img src="/images/ezgif.com-gif-maker (8).jpg" alt="" />
+        <img src="/images/ezgif.com-gif-maker (9).jpg" alt="" />
+        <img src="/images/ezgif.com-gif-maker (10).jpg" alt="" />
+        <img src="/images/ezgif.com-gif-maker (11).jpg" alt="" />
+        <img src="/images/ezgif.com-gif-maker (12).jpg" alt="" />
+        <img src="/images/ezgif.com-gif-maker (13).jpg" alt="" />
+        <img src="/images/ezgif.com-gif-maker (14).jpg" alt="" />
+        <img src="/images/ezgif.com-gif-maker (15).jpg" alt="" />
+        <img src="/images/ezgif.com-gif-maker (16).jpg" alt="" />
+        <img src="/images/ezgif.com-gif-maker (17).jpg" alt="" />
+        <img src="/images/ezgif.com-gif-maker (18).jpg" alt="" />
+        <img src="/images/ezgif.com-gif-maker (19).jpg" alt="" />
+        <img src="/images/ezgif.com-gif-maker.jpg" alt="" />
+        <!-- j                     g -->
+      </div>
+ 
+fixed
+ 
+sticky
+ 
+fixed
+ 
+margin
+ 
+absolute
+ 
+sticky
+ 
+around
+ 
+evenly
+ 
+ 195px
+ 
+fixed
+ 
+relative
+ 
+1370
+ 
+iteration-count direction 
+ 
+fill-mode
+ 
+timing- delay
+ 
+function
+ 
+duration
+ 
+name
+ 
+between
+ 
+around
+ 
+center
+ 
+ text-decoration: black;
+ 
+rgb(54, 54, 54)
+ 
+
+    font-family: Okra-Regular;
+    transition: font-size 0.5s ease 0s;
+ 
+
+    background-color: #f7f2f2e3;
+ 
+padding
+ 
+left
+ 
+left
+ 
+left
+ 
+padding: 7px;
+ 
+47.5
+ 
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css
+ 
